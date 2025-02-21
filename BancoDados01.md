@@ -60,4 +60,14 @@ A modelagem passa por alguns processos para definir como os dados serão organiz
 | **2. Modelagem Lógica**     | Refino do modelo conceitual com foco na estrutura de dados.                 | - Definição das **tabelas** (no caso de bancos de dados relacionais).<br>- Definição de **atributos** para as entidades.<br>- Especificação de **chaves primárias** e **estrangeiras**.<br>- Consideração do tipo de banco de dados a ser utilizado (relacional, NoSQL, etc.). |
 | **3. Modelagem Física**     | Implementação real do modelo de dados no sistema de banco de dados.         | - Definição de como os dados serão **armazenados fisicamente**.<br>- Criação de **índices** e otimização de **consultas**.<br>- Consideração de aspectos como **particionamento** de dados e **desempenho**.<br>- Determinação de **restrições de integridade** e **segurança**. |
 
+### Criação da modelagem
+
+Primeiro vamos definir o que será armazenado, quais serão os atributos, depois de definidos especificadamente da melhor forma:
+
+**Etapa Conceitual**
+
+Nessa etapa vamos criar uma diagrama de Modelo Entidade-Relacionamento (ER), que tem como objetivo identificar como as entidades se relacionam entre si 
+e visualizar as entidades de forma clara dentro do esquema 
+
+![Diagrama ER](https://dhg1h5j42swfq.cloudfront.net/2021/05/10192407/image-226.png)
 
