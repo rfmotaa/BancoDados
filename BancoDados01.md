@@ -75,3 +75,5 @@ Para criar os diagramas:
 - Entender os objetos e seus atributos (ex: Carro possui cor, tamanho, cavalos)
 - Representar o relcionamento entre objetos (ex: Pessoa é proprietária de um Carro)
 - Caracetrizar o relacionamento com cardinalidade (nem toda pessoa possui carro, o carro pode ser de mais de uma pessoa, uma pessoa pode ter mais de um carro)
+
+![image](https://github.com/user-attachments/assets/219c36d8-0c81-44fb-b067-7c8cd364e918)
