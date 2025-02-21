@@ -71,3 +71,7 @@ e visualizar as entidades de forma clara dentro do esquema
 
 ![Diagrama ER](https://dhg1h5j42swfq.cloudfront.net/2021/05/10192407/image-226.png)
 
+Para criar os diagramas:
+- Entender os objetos e seus atributos (ex: Carro possui cor, tamanho, cavalos)
+- Representar o relcionamento entre objetos (ex: Pessoa é proprietária de um Carro)
+- Caracetrizar o relacionamento com cardinalidade (nem toda pessoa possui carro, o carro pode ser de mais de uma pessoa, uma pessoa pode ter mais de um carro)
